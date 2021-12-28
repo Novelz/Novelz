@@ -5,7 +5,7 @@
 
 <p align="center">I am a freelance web developer. After 3 years as a full stack dev I joined the dark and hidden side of backend development.<br/>
 They didn't have cookies but neither pixels.<br/><br/>
-In the last couple of years I've had the chance to work on different solutions and platforms, from the classic Wordpress/Woocommerce installation to fully customized CMS, from creating API platforms to integration with management software and the definition of different database schemas.</p>
+In the last couple of years I've had the chance to work on different solutions and platforms, from the classic Wordpress/Woocommerce installation to fully customized CMS, from creating API platforms to integration with management software and the definition of different database schemas, to name a few.</p>
 <br>
 
 <h2 align="center"><b>Working with</b></h2>
