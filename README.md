@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/andreanovellawd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrea Novella on Linkedin"></a>
 <a href="https://stackoverflow.com/users/4636211/andrea?tab=summary"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Andrea Novella on Stack Overflow"></a></p>
 
-<pre align="center">I'm a freelance web developer. After 3 years as full stack dev I joined the dark and hidden side of backend development 2 years ago.
+<p align="center">I'm a freelance web developer. After 3 years as full stack dev I joined the dark and hidden side of backend development 2 years ago.
 They didn't have cookies but pixels neither. 
 
-I had the opportunity to work on a number of different solutions and platforms, from Wordpress to full custom CMS, creation of API platforms and integration with management software.</pre>
+I had the opportunity to work on a number of different solutions and platforms, from Wordpress to full custom CMS, creation of API platforms and integration with management software.</p>
 <!--
 **Novelz/Novelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
